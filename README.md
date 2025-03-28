@@ -5,6 +5,10 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 First, run the development server:
 
 ```bash
+yarn add react@18.2.0 react-dom@18.2.0
+#then
+yarn install
+#then
 npm run dev
 # or
 yarn dev
